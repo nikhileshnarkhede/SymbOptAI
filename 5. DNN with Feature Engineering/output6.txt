@@ -1,0 +1,8 @@
+ORIGINAL:
+div(cos(sin(div(X2, sub(add(add(min(tan(X2), tan(inv(X0))), tan(add(X3, 1.206))), X2), div(X1, inv(sqrt(X0))))))), div(2.042, X3))
+
+FINAL ENUMERATED TERMS:
+Term 1: (cos(sin((X2 / (((min(tan(X2), tan((1/(X0)))) + tan((X3 + 1.206))) + X2) - (X1 / (1/(sqrt(X0)))))))) / (2.042 / X3))
+
+FINAL FORMULA:
+(cos(sin((X2 / (((min(tan(X2), tan((1/(X0)))) + tan((X3 + 1.206))) + X2) - (X1 / (1/(sqrt(X0)))))))) / (2.042 / X3))

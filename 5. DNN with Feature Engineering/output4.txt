@@ -1,0 +1,9 @@
+ORIGINAL:
+add(tan(sub(add(X2, X0), sub(X3, X1))), inv(0.037))
+
+FINAL ENUMERATED TERMS:
+Term 1: tan(((X2 + X0) - (X3 - X1)))
+Term 2: 27.027
+
+FINAL FORMULA:
+tan(((X2 + X0) - (X3 - X1))) + 27.027

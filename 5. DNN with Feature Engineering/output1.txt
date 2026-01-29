@@ -1,0 +1,11 @@
+ORIGINAL:
+add(add(add(div(1.557, X0), sqrt(X3)), sqrt(X2)), tan(sin(X1)))
+
+FINAL ENUMERATED TERMS:
+Term 1: (1.557 / X0)
+Term 2: sqrt(X3)
+Term 3: sqrt(X2)
+Term 4: tan(sin(X1))
+
+FINAL FORMULA:
+(1.557 / X0) + sqrt(X3) + sqrt(X2) + tan(sin(X1))

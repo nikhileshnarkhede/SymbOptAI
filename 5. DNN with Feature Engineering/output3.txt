@@ -1,0 +1,9 @@
+ORIGINAL:
+add(min(max(inv(add(div(X0, 3.528), -0.034)), div(X3, 3.528)), sub(X2, inv(cos(X2)))), log(div(sin(-0.249), X3)))
+
+FINAL ENUMERATED TERMS:
+Term 1: min(max((1/(((X0 / 3.528) + -0.034))), (X3 / 3.528)), (X2 - (1/(cos(X2)))))
+Term 2: log((-0.246435 / X3))
+
+FINAL FORMULA:
+min(max((1/(((X0 / 3.528) - 0.034))), (X3 / 3.528)), (X2 - (1/(cos(X2))))) + log((-0.246435 / X3))

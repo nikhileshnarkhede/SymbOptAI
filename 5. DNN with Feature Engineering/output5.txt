@@ -1,0 +1,8 @@
+ORIGINAL:
+div(div(sub(sub(X3, tan(div(div(sin(X1), neg(X0)), -0.137))), tan(div(sub(X3, mul(abs(log(X1)), cos(add(X1, X3)))), X1))), -0.137), log(cos(2.037)))
+
+FINAL ENUMERATED TERMS:
+Term 1: ((((X3 - tan(((sin(X1) / (-X0)) / -0.137))) - tan(((X3 - (abs(log(X1)) * cos((X1 + X3)))) / X1))) / -0.137) / log(-0.449498))
+
+FINAL FORMULA:
+((((X3 - tan(((sin(X1) / (-X0)) / -0.137))) - tan(((X3 - (abs(log(X1)) * cos((X1 + X3)))) / X1))) / -0.137) / log(-0.449498))
