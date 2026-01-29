@@ -292,15 +292,7 @@ To reproduce the results presented in the paper:
 2. Execute scripts in sequential order (Stage 1 → Stage 6)
 3. For exact reproduction, use the same random seeds specified in the code
 
-**Expected R² Scores** (Test Set):
-| Property | R² Score |
-|----------|----------|
-| Tensile Strength | >0.90 |
-| Elongation at Break | >0.85 |
-| Toughness | >0.88 |
-| Fracture Toughness | >0.92 |
-| Flexure Modulus | >0.87 |
-| Flexure Strength | >0.91 |
+
 
 ---
 
