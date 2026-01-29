@@ -238,7 +238,7 @@ print(df_result.head())
 optimal_inputs = res.X  # shape (n_points, 4)
 optimal_outputs = -res.F  # negate back to original direction (maximized)
 
-import pandas as pd
+
 df = pd.DataFrame(optimal_inputs, columns=["Layer_thickness", "Printing_speed", "Bed_temperature", "Nozzle_temperature"])
 df["Tensile_strength"] = optimal_outputs[:, 0]
 df["Elongation_Break"] = optimal_outputs[:, 1]
