@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Computational resources provided by the **Unity High-Performance Computing Cluster** at UMass
-- This research was supported by [Funding Agency/Grant Number]
+
 
 ---
 
