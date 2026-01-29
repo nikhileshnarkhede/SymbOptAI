@@ -8,7 +8,7 @@
 
 **SymbOptAI** is an end-to-end computational framework that integrates **Symbolic Regression Analysis (SRA)**, **Deep Neural Networks (DNN)**, and **Multi-Objective Optimization (NSGA-II)** for predicting and optimizing mechanical properties of 3D printed materials. This repository accompanies the research paper submitted to the journal *Additive Manufacturing*.
 
-The framework discovers **interpretable mathematical equations** that relate FDM (Fused Deposition Modeling) printing parameters to six critical mechanical properties, offering both predictive accuracy and physical interpretability—bridging the gap between black-box machine learning and explainable models in materials science.
+The framework discovers **interpretable mathematical equations** that relate FFF (Fused Filament Fabrication) printing parameters to six critical mechanical properties, offering both predictive accuracy and physical interpretability—bridging the gap between black-box machine learning and explainable models in materials science.
 
 ---
 
