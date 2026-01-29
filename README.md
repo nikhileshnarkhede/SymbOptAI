@@ -101,7 +101,7 @@ SymbOptAI/
 |-------|-----------|-------------|
 | **1** | Design of Experiments | Taguchi L9 orthogonal array for systematic parameter space exploration |
 | **2** | Data Augmentation | Bootstrap resampling with experimental standard deviations (n=10 per condition) |
-| **3** | Symbolic Regression | Genetic programming with exhaustive hyperparameter sweep (432 configurations) |
+| **3** | Symbolic Regression | Genetic programming with exhaustive hyperparameter sweep (1500 configurations) |
 | **4** | Equation Analysis | AST parsing, term extraction, and frequency analysis across all equations |
 | **5** | Feature-Enhanced DNN | Terms from symbolic equations used as engineered features for DNN |
 | **6** | Multi-Objective Optimization | NSGA-II for inverse design with 6 simultaneous objectives |
