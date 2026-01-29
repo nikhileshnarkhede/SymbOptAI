@@ -234,7 +234,7 @@ python Optimization.py
 
 ## Symbolic Regression Configuration
 
-The symbolic regression employs an exhaustive hyperparameter sweep across 432 unique configurations:
+The symbolic regression employs an exhaustive hyperparameter sweep across 1500 unique configurations:
 
 ```python
 # GP Hyperparameters
